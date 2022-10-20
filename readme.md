@@ -1,3 +1,6 @@
+![ashibanner](banner.png)
+
+
 # PRA Delta Checker (PDC)
 
 PDC is software run with the flow cytometer to monitor the changes of PRA results for HLA lab. 
@@ -43,6 +46,8 @@ https://www.sciencedirect.com/science/article/pii/S019888592200163X
     
     By clicking, the software will check new samples and output report.
  
+![poster](ashi_poster_PRA_Delta_Check.png)
+
 ## License
 
 [GPL] (https://opensource.org/licenses/GPL-3.0)
