@@ -1,0 +1,16 @@
+{
+"mean_class1":0,
+"mean_control":0,
+"mean_class2":0,
+"ad_class1":0,
+"ad_control":0,
+"ad_class2":0,
+"min_ad_class1":0,
+"min_ad_control":0,
+"min_ad_class2":0,
+"rolling_mean":False
+"ks_enable":False
+"ks_ad_min_class1":0
+"ks_ad_min_control":0
+"ks_ad_min_class2":0
+}
